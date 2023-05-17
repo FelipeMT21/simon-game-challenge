@@ -46,7 +46,7 @@ I have learned a lot about how to use JavaScript, the DOM, jQuery, and create fu
 
 - [Developers Google](https://developers.google.com/speed/libraries?hl=pt-br#jquery) - On this website, I have obtained the most up-to-date jQuery command script to apply in my code.
 - [W3Schools](https://www.w3schools.com/jquery/jquery_ref_effects.asp) - On this website, I have obtained some jQuery commands to customize my code.
-- [W3Schools](https://stackoverflow.com/questions/275931/how-do-you-make-an-element-flash-in-jquery) - This website has helped me a lot with some questions I had.
+- [Stack OverFlow](https://stackoverflow.com/questions/275931/how-do-you-make-an-element-flash-in-jquery) - This website has helped me a lot with some questions I had.
 
 ## Author
 
